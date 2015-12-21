@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zhaosen-framwork"
+  id="myeclipse.1445242882840"
+  context-root="/zhaosen-framwork"
+  j2ee-spec="6.0"
+  archive="zhaosen-framwork.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
